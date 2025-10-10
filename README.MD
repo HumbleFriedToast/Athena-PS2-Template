@@ -1,5 +1,5 @@
 # Glaz
-a maze game being developed for the ps2 using the AthenaEnv Emulator for ps2.
+A maze game being developed for the ps2 using the AthenaEnv Emulator for ps2.
 
 # Important
 
